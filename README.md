@@ -4,6 +4,30 @@ A personal repository dedicated to learning, experimenting with, and mastering J
 
 This repository contains small projects, examples, notes, and concept demonstrations that help strengthen my understanding of Java and software development.
 
+## Progress
+
+### Core Java
+- [ ] Classes & Objects
+- [ ] OOP (Inheritance, Polymorphism, Interfaces, Abstract Classes)
+
+### Collections & Generics
+- [ ] Collections Framework
+- [ ] Generics
+- [ ] Functional Interfaces
+
+### Advanced Java
+- [ ] Streams
+- [ ] File I/O
+- [ ] Networking
+- [ ] Concurrency
+- [ ] Reflection & Annotations
+
+### Development
+- [ ] Databases
+- [ ] REST APIs
+- [ ] Design Patterns
+- [ ] Spring Boot
+
 ## Goals
 
 - Improve Java fundamentals
