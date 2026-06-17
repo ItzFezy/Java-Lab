@@ -7,7 +7,7 @@ This repository contains small projects, examples, notes, and concept demonstrat
 ## Progress
 
 ### Core Java
-- [ ] Classes & Objects
+- [x] Classes & Objects
 - [ ] OOP (Inheritance, Polymorphism, Interfaces, Abstract Classes)
 
 ### Collections & Generics
